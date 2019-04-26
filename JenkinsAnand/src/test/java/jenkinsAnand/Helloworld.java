@@ -8,6 +8,6 @@ class Helloworld{
 	@org.testng.annotations.Test
 	public void Test()
 	{
-		System.out.println("Hello word");
+		System.out.println("Hello word");System.out.println("test");
 	}
 }
